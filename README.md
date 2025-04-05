@@ -26,6 +26,6 @@ Esta aplicación permite crear y gestionar peticiones de ayuda mediante una inte
 {
   "title": "Título de la petición",
   "description": "Descripción detallada",
-  "imageUrl": "[https://ejemplo.com/imagen.jpg]",(https://ejemplo.com/imagen.jpg",)
+  "imageUrl": "[https://ejemplo.com/imagen.jpg]",
   "location": "Ubicación de la petición"
 }
